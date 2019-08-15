@@ -27,7 +27,7 @@ the application should allow the user to view, create, update and delete user in
 
 1. major functionalities should be cover on the test.
 2. support for modern browsers.
-3. instructions and readme on how to use the application should be included.
+3. instructions and `readme.md` on how to use the application should be included.
 4. use of git.
 5. end to end test is strong bonus
 
