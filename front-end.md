@@ -17,7 +17,7 @@ the application should allow the user to view, create, update and delete user in
 
 1. as a user i need to view user and joborders with embedded map using [Google Maps](https://developers.google.com/maps/) from the list of user information.
 2. as a user i need to update a user and add joborder from the list of user information.
-3. as a user i need to add a user from the list of user information..
+3. as a user i need to add a user from the list of user information.
 4. as a user i need to delete a user from the list of user information.
 
 *NOTE: please do not include your google API key in your submission. Instead use a configurable config file to store the api key.*
@@ -27,7 +27,7 @@ the application should allow the user to view, create, update and delete user in
 
 1. major functionalities should be cover on the test.
 2. support for modern browsers.
-3. Instructions and readme on how to use the application should be included.
+3. instructions and readme on how to use the application should be included.
 4. use of git.
 5. end to end test is strong bonus
 
@@ -91,11 +91,10 @@ The Mock API has been deployed at [https://5adff6ee17a03000145b2551.mockapi.io/v
 
 ## Implementation Notes
 
-- You can work on your own schedule, but a complete solution is expected within 14 days.
-- Your code should be modular. Each module should focus on doing one thing well.
-- We aim for reusable components and a maintainable codebase.
-- Be frugal in the use of third-party libraries. (don’t include a 300 KB library just for one helper function)
-- You can implement any additional features that you think will enhance the user experience.
+- you can work on your own schedule, but a complete solution is expected within 14 days.
+- your code should be modular. Each module should focus on doing one thing well.
+- you must be frugal in the use of third-party libraries. (don’t include a 300 KB library just for one helper function)
+- you can implement any additional features that you think will enhance the user experience.
 
 ## Wireframes
 
