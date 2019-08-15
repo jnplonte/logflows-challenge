@@ -100,7 +100,7 @@ The Mock API has been deployed at [https://5adff6ee17a03000145b2551.mockapi.io/v
 
 these wireframes serve as a reference for the UI of your application. You can be creative with UI/UX and additional features.
 
-xxxxxxxxxxxxxxxxxxx TO FOLLOW WIREFRAMES xxxxxxxxxxxxxxxxxxx
+[wireframe](https://xd.adobe.com/spec/a1516e48-56fb-4e40-739e-cf27bcd00d47-d760/)
 
 
 
