@@ -27,18 +27,18 @@ the application should allow the user to view, create, update and delete user in
 
 1. major functionalities should be cover on the test.
 2. support for modern browsers.
-3. Instructions and readme on how to use the application should be included and must be production ready.
+3. Instructions and readme on how to use the application should be included.
 4. use of git.
 5. end to end test is strong bonus
 
 ## Frameworks and Libraries
 
-we mainly use VueJs at LOGFLOWS, however you are free to use whatever framework or library that you are familiar with or prefer.
+we mainly use VueJs at LOGFLOWS, however you are free to use whatever framework that you are familiar with (vue/react/angular).
 
 
 ## Using the Mock API
 
-The Mock API has been deployed at [https://5adff6ee17a03000145b2551.mockapi.io/v1](https://5adff6ee17a03000145b2551.mockapi.io/v1).
+The Mock API has been deployed at [https://5adff6ee17a03000145b2551.mockapi.io/v1](https://5adff6ee17a03000145b2551.mockapi.io/v1)
 
 
 - Method: `GET` - get all users
