@@ -56,8 +56,8 @@ The Mock API has been deployed at [https://5adff6ee17a03000145b2551.mockapi.io/v
       "name": "Peter Parker",
       "image": "https://s3.amazonaws.com/uifaces/faces/twitter/bighanddesign/128.jpg",
       "companyName": "logflows",
-      "email": "spidereman@gmail.com",
-      "remakrs": "remakrs 2",
+      "email": "spiderman@gmail.com",
+      "remarks": "remarks 1",
       "jobOrders": [
           {
               "pickup": {
