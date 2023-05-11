@@ -38,7 +38,7 @@ we mainly use VueJs at LOGFLOWS, however you are free to use whatever framework 
 
 ## Using the Mock API
 
-The Mock API has been deployed at [https://5adff6ee17a03000145b2551.mockapi.io/v1](https://5adff6ee17a03000145b2551.mockapi.io/v1)
+The Mock API has been deployed at [https://61f2aba52219930017f5080b.mockapi.io](https://61f2aba52219930017f5080b.mockapi.io)
 
 
 - Method: `GET` - get all users
@@ -54,7 +54,7 @@ The Mock API has been deployed at [https://5adff6ee17a03000145b2551.mockapi.io/v
     ```
     {
       "name": "Peter Parker",
-      "image": "https://s3.amazonaws.com/uifaces/faces/twitter/bighanddesign/128.jpg",
+      "image": "https://cloudflare-ipfs.com/ipfs/Qmd3W5DuhgHirLHGVixi6V76LhCkZUz6pnFt5AJBiyvHye/avatar/800.jpg",
       "companyName": "logflows",
       "email": "spiderman@gmail.com",
       "remarks": "remarks 1",
